@@ -1,4 +1,6 @@
-# A simple responsive Sign Up and Login In Page with sliding effect in the background.
+#
+
+A simple responsive Sign Up and Login In Page with sliding effect in the background.
 
 # Preview: https://dushyant029.github.io/SignUp-Login-Page/
 
